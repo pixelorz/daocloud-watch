@@ -2,6 +2,8 @@
 import requests
 import time
 import json
+import sys   
+sys.setrecursionlimit(99999999)
 
 token = ''
 app_id = ''
